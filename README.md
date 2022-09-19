@@ -6,6 +6,6 @@ Dentro de este repositorio se encuentra la implementación manual de un modelo d
 
 * El archivo PredictCalories.py hace uso del modelo de regresión lineal multiple implementado a mano, para predecir calorias a partir de las variables carbohidratos, proteínas y lípidos, utilizando el conjunto de datos nutritionalinfo.csv. Una vez predichos, muestra la métrica RMSE para conocer el desempeño del modelo implementado a mano. 
 
- ## Como probar el código:
+ ## Instrucciones de uso:
  
 Para probar el código descargue todo el repositorio y corra el archivo PredictCalories.csv.
